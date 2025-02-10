@@ -1,1 +1,1 @@
-sample file
+sample file of the project
